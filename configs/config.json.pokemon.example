@@ -1,9 +1,9 @@
 {
     "auth_service": "google",
-    "username": "YOUR_USERNAME",
-    "password": "YOUR_PASSWORD",
-    "location": "SOME_LOCATION",
-    "gmapkey": "GOOGLE_MAPS_API_KEY",
+    "username": "erikfernandes1447@gmail.com",
+    "password": "lintahdarat",
+    "location": "-6.176132,106.822864",
+    "gmapkey": "AIzaSyBlbh5FpAgbNNj0RUfdLy5NeK0vAcjftW4",
     "tasks": [
       {
         "type": "HandleSoftBan"
